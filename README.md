@@ -11,7 +11,7 @@ Welcome to **Trippy**, a React-based travel website designed to help you discove
 
 ## Live Demo
 
-Check out the live demo of Trippy at: [Trippy Live Demo](https://trippy-demo.example.com))
+Check out the live demo of Trippy at: [Trippy Live Demo](https://trippyy1.netlify.app/)
 
 ## Installation
 
