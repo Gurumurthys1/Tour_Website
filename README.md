@@ -11,7 +11,7 @@ Welcome to **Trippy**, a React-based travel website designed to help you discove
 
 ## Live Demo
 
-Check out the live demo of Trippy at: [Trippy Live Demo](https://trippy-demo.example.com)
+Check out the live demo of Trippy at: [Trippy Live Demo][(https://trippy-demo.example.com](https://trippyy1.netlify.app/))
 
 ## Installation
 
@@ -20,3 +20,23 @@ To get started with the Trippy project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/trippy.git
+
+## Navigate to the project directory:
+``
+cd trippy
+``
+## Install dependencies:
+``
+npm install
+``
+## Start the development server:
+``
+npm start
+``
+
+## Usage
+Browse popular destinations and recent trips on the homepage.
+
+Use the interactive maps to discover new locations.
+
+Choose and explore your favorite destinations.
