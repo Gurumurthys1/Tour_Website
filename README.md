@@ -8,7 +8,15 @@ Welcome to **Trippy**, a React-based travel website designed to help you discove
 - **Recent Trips:** Explore recent travel destinations such as Thailand, Bhaktapur, and the Maldives.
 - **Interactive Maps:** Use Google Maps to discover unique destinations and plan your trips.
 - **User Interaction:** Choose your favorite destinations and engage with various travel-related content.
+- 
+### Technologies Used
 
+- **React:** A JavaScript library for building user interfaces. React is used to create the interactive components and manage the state of the application.
+- **JavaScript:** The primary programming language used for developing the client-side logic and functionality of the website.
+- **HTML/CSS:** Used for structuring and styling the web pages. HTML provides the markup, while CSS handles the layout and design aspects.
+- **Google Maps API:** Integrated to provide interactive maps for exploring destinations and planning trips.
+- **Node.js & npm:** Used for running the development server and managing project dependencies.
+- **Git & GitHub:** Version control system and repository hosting service used for managing the source code and collaborating with contributors.
 ## Live Demo
 
 Check out the live demo of Trippy at: [Trippy Live Demo](https://trippyy1.netlify.app/)
@@ -35,6 +43,7 @@ npm start
 ``
 
 ## Usage
+
 Browse popular destinations and recent trips on the homepage.
 
 Use the interactive maps to discover new locations.
